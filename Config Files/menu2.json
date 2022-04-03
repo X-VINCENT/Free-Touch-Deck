@@ -1,0 +1,77 @@
+{
+  "logo0": "explorer.bmp",
+  "logo1": "chrome.bmp",
+  "logo2": "discord.bmp",
+  "logo3": "store.bmp",
+  "logo4": "nvidia.bmp",
+  "button0": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "9",
+      "7",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "1",
+      "0"
+    ]
+  },
+  "button1": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "9",
+      "7",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "2",
+      "0"
+    ]
+  },
+  "button2": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "9",
+      "7",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "3",
+      "0"
+    ]
+  },
+  "button3": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "9",
+      "7",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "4",
+      "0"
+    ]
+  },
+  "button4": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "9",
+      "7",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "5",
+      "0"
+    ]
+  }
+}

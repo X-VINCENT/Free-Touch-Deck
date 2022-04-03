@@ -1,0 +1,77 @@
+{
+  "logo0": "share_screen.bmp",
+  "logo1": "micro_unmuted.bmp",
+  "logo2": "undeafen.bmp",
+  "logo3": "empty.bmp",
+  "logo4": "empty.bmp",
+  "button0": {
+    "latch": true,
+    "latchlogo": "stop_share_screen.bmp",
+    "actionarray": [
+      "9",
+      "6",
+      "0"
+    ],
+    "valuearray": [
+      "1",
+      "1",
+      "0"
+    ]
+  },
+  "button1": {
+    "latch": true,
+    "latchlogo": "micro_muted.bmp",
+    "actionarray": [
+      "9",
+      "6",
+      "0"
+    ],
+    "valuearray": [
+      "1",
+      "2",
+      "0"
+    ]
+  },
+  "button2": {
+    "latch": true,
+    "latchlogo": "deafen.bmp",
+    "actionarray": [
+      "9",
+      "6",
+      "0"
+    ],
+    "valuearray": [
+      "1",
+      "3",
+      "0"
+    ]
+  },
+  "button3": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "0",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  "button4": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "0",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "0",
+      "0",
+      "0"
+    ]
+  }
+}

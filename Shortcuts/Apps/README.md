@@ -1,0 +1,1 @@
+Here you can put all the shortcuts you need.

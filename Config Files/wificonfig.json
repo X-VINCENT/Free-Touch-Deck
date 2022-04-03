@@ -1,0 +1,8 @@
+{
+    "ssid": "your_ssid",
+    "password": "your_box_password",
+    "wifimode": "WIFI_STA",
+    "wifihostname": "freetouchdeck",
+    "attempts": 10,
+    "attemptdelay": 500
+}
