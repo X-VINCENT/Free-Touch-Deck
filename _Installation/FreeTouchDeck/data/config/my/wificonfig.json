@@ -1,0 +1,8 @@
+{
+	"ssid": "XV",
+	"password": "wyFMjsnLFRRJSiwpm9",
+	"wifimode": "WIFI_STA",
+	"wifihostname": "freetouchdeck",
+	"attempts": 10,
+	"attemptdelay": 500
+}
